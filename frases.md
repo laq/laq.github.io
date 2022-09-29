@@ -1,20 +1,14 @@
-<html>
-    <body>
-            <style>
-                    .keep_style {
-                        white-space: pre-wrap;
-                    }
-            </style>
-        <div class="keep_style">
-
-<h2>This is a list of sayings, knowledge or simple words of advise that I have summed up during the years - LAQ
-</h2>
+# Frases
+This is a list of sayings, knowledge or simple words of advise that I have summed up during the years - LAQ
 
 
-Optimize the function. Ignore the form.
+
+## Unsorted
+
+* Optimize the function. Ignore the form.
     Article on Elon musk principles
 
-If something is not elegant it is going to bite you.
+* If something is not elegant it is going to bite you.
 Nand to Tetris Course
 
 
