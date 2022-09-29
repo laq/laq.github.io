@@ -5,22 +5,22 @@ This is a list of sayings, knowledge or simple words of advise that I have summe
 
 ## Unsorted
 
-* Optimize the function. Ignore the form.
-    Article on Elon musk principles
+* Optimize the function. Ignore the form
+	> _Article on Elon musk principles_
 
 * If something is not elegant it is going to bite you.
-Nand to Tetris Course
+	> _Nand to Tetris Course_
 
-
-"We ascribe beauty to that which is simple; which has no superfluous parts; which exactly answers its end; which stands related to all things; which is the mean of many extremes"
---Ralph Waldo Emerson
+* We ascribe beauty to that which is simple; which has no superfluous parts; which exactly answers its end; which stands related to all things; which is the mean of many extremes
+	> _Ralph Waldo Emerson_
 
 		
-If a design makes sense to a team that had nothing to do with its inception it is a good sign.
-		-- Colm MacCárthaigh is a Senior Principal Engineer at Amazon Web Service
+* If a design makes sense to a team that had nothing to do with its inception it is a good sign.
+	> _Colm MacCárthaigh is a Senior Principal Engineer at Amazon Web Service_
 		
 
-"Most of my life has been spent trying to shrink myself. Trying to become smaller. Quieter. Less sensitive. Less opinionated. less needy. Less me. Because I didn't want to be a burden. I didn't want to be too much or push people away. I wanted people to like me. I wanted to be cared for and valued. I wanted to be wanted. So for years, I sacrificed myself for the sake of making other people happy. And for years, I suffered. But I'm tired of suffering, and I'm done shrinking. It's not my job to change who I am in order to become someone else's idea of worthwhile human being. I am worthwhile. Not because other people think I am, but because I exist, and therefore I matter. My thoughts matter. My feelings matter. My voice matters. And with or without anyone's permission or approval, I will continue to be who I am and speak my truth. even if it makes people angry. Even if it makes them uncomfortable. Even if they choose to leave. I refuse to shrink. I choose to give myself permission to get my needs met. I choose to make self-care a priority, I choose me" Daniell Koepke
+* "Most of my life has been spent trying to shrink myself. Trying to become smaller. Quieter. Less sensitive. Less opinionated. less needy. Less me. Because I didn't want to be a burden. I didn't want to be too much or push people away. I wanted people to like me. I wanted to be cared for and valued. I wanted to be wanted. So for years, I sacrificed myself for the sake of making other people happy. And for years, I suffered. But I'm tired of suffering, and I'm done shrinking. It's not my job to change who I am in order to become someone else's idea of worthwhile human being. I am worthwhile. Not because other people think I am, but because I exist, and therefore I matter. My thoughts matter. My feelings matter. My voice matters. And with or without anyone's permission or approval, I will continue to be who I am and speak my truth. even if it makes people angry. Even if it makes them uncomfortable. Even if they choose to leave. I refuse to shrink. I choose to give myself permission to get my needs met. I choose to make self-care a priority, I choose me 
+	> Daniell Koepke
 
 
 "
