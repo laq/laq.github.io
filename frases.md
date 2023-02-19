@@ -7,6 +7,9 @@ Warning: Multilingual content below.
 
 ## Unsorted
 
+* Be ashamed to die without earning a victory for humanity
+	> _Neil de Grass Tyson_
+
 * Fish avoid streams with clear water; a man too judicious amases no followers.
 	> _Hagakure (Foot note, Original passage in Kung Tzu Chia Yu.)_
 
