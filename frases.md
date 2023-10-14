@@ -6,6 +6,8 @@ Warning: Multilingual content below.
 
 
 ## Unsorted
+* What a softare engineeer does is make new words to make computers easier to use
+
 
 * Be ashamed to die without earning a victory for humanity
 	> _Neil de Grass Tyson_
