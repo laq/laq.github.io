@@ -7,7 +7,10 @@ Warning: Multilingual content below.
 
 ## Unsorted
 * What a softare engineeer does is make new words to make computers easier to use
+        > _Raymond Hettinger_
 
+* Object oriented programing is solving a graph transversal problem. Talking specifically about python objects
+         > _Raymond Hettinger_
 
 * Be ashamed to die without earning a victory for humanity
 	> _Neil de Grass Tyson_
