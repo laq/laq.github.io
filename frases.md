@@ -1,4 +1,4 @@
-# Frases
+# Frases/ Phrases
 This is a list of sayings, knowledge or simple words of advise that I have summed up during the years - LAQ
 
 Warning: Multilingual content below.
@@ -14,6 +14,11 @@ Warning: Multilingual content below.
 
 * Be ashamed to die without earning a victory for humanity
 	> _Neil de Grass Tyson_
+
+
+* A good meassurment of trus in a relationship is the time you take between realizing you are wrong
+ and comunicating it.
+	> _No dumb questions_ Curios case of Harold Sandlin podcast
 
 * Fish avoid streams with clear water; a man too judicious amases no followers.
 	> _Hagakure (Foot note, Original passage in Kung Tzu Chia Yu.)_
